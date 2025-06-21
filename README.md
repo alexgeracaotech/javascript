@@ -47,3 +47,31 @@
   </body>
 </html>
 ~~~
+
+## COMENTÁRIOS
+
+### Comentário de linha
+
+~~~ javascript
+
+// comentário de linha
+
+~~~
+
+### Comentário de bloco simples
+
+~~~ javascript
+
+/* comentário de bloco simples */
+
+~~~
+
+### Comentário de bloco com marcadores
+
+~~~ javascript
+
+/**
+ * comentário de bloco com marcador
+ */
+
+~~~
