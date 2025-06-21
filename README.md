@@ -79,7 +79,7 @@
 
 ~~~
 
-## VARIÀVEIS
+## VARIÁVEIS
 
 ### Declaração
 
