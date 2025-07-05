@@ -408,14 +408,6 @@ console.log(typeof age);
 var number = Boolean(0);
 console.log(number);
 
-// parseInt()
-var weight = parseInt("85.6");
-console.log(weight);
-
-// parseFloat()
-var weight = parseFloat("85.6");
-console.log(weight);
-
 ```
 
 ## Operadores
