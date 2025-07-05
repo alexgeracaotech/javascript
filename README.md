@@ -173,8 +173,9 @@ var my_name;
 ./src/script.js
 
 // string
-var name = "Alex";
+var firstName = "Alex";
 var surname = 'Bessa';
+var lastName = `Daniel`;
 
 // number
 var age = 29;
@@ -190,5 +191,26 @@ console.log(contains);
 
 // null
 var data = null;
+
+~~~
+
+### Não primitivos
+
+~~~ javascript
+./src/script.js
+
+// array
+var values = [1, "Alex", true, null];
+
+// object literal
+var person = {name: "Alex", age: 29};
+
+var person = {
+  name: "Alex",
+  age: 29
+};
+
+// function
+var message = function(){};
 
 ~~~
