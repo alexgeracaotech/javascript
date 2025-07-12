@@ -1,8 +1,16 @@
 
-// if (5 < 2) {
-//     console.log("Verdadeiro.");
-// }
+var light = "green";
 
-var licensed = false;
-
-!licensed && console.log("Precisa tirar a carta de habilitação.");
+switch (light) {
+    case "red":
+        console.log("Stop!");
+        break;
+    case "yellow":
+        console.log("Attention!");
+        break;
+    case "green":
+        console.log("Go!");
+        break;
+    default:
+        console.log("Invalid color.");
+}
